@@ -8,7 +8,7 @@ pour ajouté un fichier au dossier on utilise la commande : git add nomdufichier
 
 pour soumettre le commit ont utilise : git commit -m "nom du commit"
 
-pour envoyer sur le repository : git push  -u nomdelabranche
+pour envoyer sur le repository : git push nomdelabranche
 
 
 

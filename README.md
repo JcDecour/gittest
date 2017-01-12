@@ -20,3 +20,5 @@ pour envoyer sur le repository : git push nomdelabranche
 
 
 Ressource pour git : http://rogerdudler.github.io/git-guide/index.fr.html
+
+autre ressource pour git merci @elsa :https://www.grafikart.fr/formations/git/init-config-add-log
